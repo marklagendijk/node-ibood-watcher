@@ -1,0 +1,10 @@
+{
+  "name": "ibood-watcher",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "moment": "^2.8.1"
+  }
+}
